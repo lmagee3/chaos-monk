@@ -1,0 +1,10 @@
+indexer.py
+config.json
+*.pyc
+__pycache__/
+.env
+*.zip
+*.docx
+*.pdf
+*.rtf
+.DS_Store
